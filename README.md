@@ -1,3 +1,4 @@
+![top](https://raw.githubusercontent.com/saiokokun/hr-til/master/app/assets/images/top.gif)
 ##
 <sup> You ever wonder why we’re here?</sup> 
 
@@ -8,3 +9,6 @@
  ![profile](https://discord.c99.nl/widget/theme-3/70583819811430400.png)
  
  <sup> [SuperTrustableLink.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</sup> 
+
+![bottom](https://raw.githubusercontent.com/saiokokun/hr-til/master/app/assets/images/bottom.gif)
+
