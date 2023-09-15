@@ -1,4 +1,3 @@
-<img src="https://github.com/saiokokun/saiokokun/blob/main/top.gif" width="100%"/>
 ##
 <sup> You ever wonder why we’re here?</sup> 
 
@@ -10,4 +9,5 @@
  
  <sup> [SuperTrustableLink.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</sup> 
 
- <img src="https://github.com/saiokokun/saiokokun/blob/main/bottom.gif" width="100%"/>
+<img src="https://github.com/saiokokun/saiokokun/blob/main/cat.gif" width="5%"/>
+
