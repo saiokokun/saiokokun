@@ -1,4 +1,4 @@
-![top](https://raw.githubusercontent.com/saiokokun/hr-til/master/app/assets/images/top.gif)
+![top](https://github.com/saiokokun/saiokokun/blob/main/top.gif)
 ##
 <sup> You ever wonder why we’re here?</sup> 
 
@@ -10,5 +10,5 @@
  
  <sup> [SuperTrustableLink.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</sup> 
 
-![bottom](https://raw.githubusercontent.com/saiokokun/hr-til/master/app/assets/images/bottom.gif)
+![bottom](https://github.com/saiokokun/saiokokun/blob/main/bottom.gif)
 
